@@ -15,3 +15,20 @@ E:\งาน\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windo
 E:\งาน\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.pdb
 E:\งาน\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.genruntimeconfig.cache
 E:\งาน\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\ref\Programe_Grade.dll
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\bin\Debug\net6.0-windows\Programe_Grade.exe
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\bin\Debug\net6.0-windows\Programe_Grade.deps.json
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\bin\Debug\net6.0-windows\Programe_Grade.runtimeconfig.json
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\bin\Debug\net6.0-windows\Programe_Grade.dll
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\bin\Debug\net6.0-windows\Programe_Grade.pdb
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.vbproj.AssemblyReference.cache
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.Form1.resources
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.vbproj.GenerateResource.cache
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.AssemblyInfoInputs.cache
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.AssemblyInfo.vb
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.vbproj.CoreCompileInputs.cache
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.dll
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\refint\Programe_Grade.dll
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.pdb
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\Programe_Grade.genruntimeconfig.cache
+D:\Visual 2022\Programe_Grade\Programe_Grade\Programe_Grade\obj\Debug\net6.0-windows\ref\Programe_Grade.dll

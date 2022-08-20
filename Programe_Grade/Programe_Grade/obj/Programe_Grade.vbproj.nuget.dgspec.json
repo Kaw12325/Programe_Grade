@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjGit\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {}
+    "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {}
   },
   "projects": {
-    "D:\\ProjGit\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {
+    "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjGit\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+        "projectUniqueName": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
         "projectName": "Programe_Grade",
-        "projectPath": "D:\\ProjGit\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
-        "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjGit\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
+        "projectPath": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
