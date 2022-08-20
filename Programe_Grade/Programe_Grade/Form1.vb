@@ -1,4 +1,12 @@
 ﻿Public Class Form1
+    Private Sub btn_exit_Click(sender As Object, e As EventArgs) Handles btn_exit.Click
+        Dim bt_Exit As MsgBoxResult
+        bt_Exit = MsgBox("จบการทำงานใช่หรือไม่ ?", MsgBoxStyle.YesNo, "จบการทำงาน")
+        If bt_Exit = MsgBoxResult.Yes Then
+            MsgBox("เลิกการทำงาน.....", MsgBoxStyle.Exclamation, "จบการทำงาน")
+            Application.Exit()
+
+    End Sub
     Private Sub btn_ok_Click(sender As Object, e As EventArgs) Handles btn_ok.Click
         If String.IsNullOrEmpty(txt_score1.Text) Or String.IsNullOrEmpty(txt_score2.Text) Then
             MessageBox.Show("กรุณากรอกตัวเลข")
@@ -36,4 +44,6 @@
         txt_total.Text = ""
         txt_grade.Text = ""
     End Sub
+
+
 End Class
