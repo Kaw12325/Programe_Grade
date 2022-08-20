@@ -5,6 +5,9 @@
         If bt_Exit = MsgBoxResult.Yes Then
             MsgBox("เลิกการทำงาน.....", MsgBoxStyle.Exclamation, "จบการทำงาน")
             Application.Exit()
+        Else
+            bt_Exit = MsgBoxResult.No
+        End If
 
     End Sub
     Private Sub btn_ok_Click(sender As Object, e As EventArgs) Handles btn_ok.Click
