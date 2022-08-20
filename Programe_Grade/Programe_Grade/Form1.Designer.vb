@@ -38,38 +38,42 @@ Partial Class Form1
         '
         'btn_exit
         '
+        Me.btn_exit.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.btn_exit.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btn_exit.Location = New System.Drawing.Point(534, 238)
+        Me.btn_exit.Location = New System.Drawing.Point(485, 272)
         Me.btn_exit.Name = "btn_exit"
         Me.btn_exit.Size = New System.Drawing.Size(166, 73)
         Me.btn_exit.TabIndex = 12
         Me.btn_exit.Text = "Exit"
-        Me.btn_exit.UseVisualStyleBackColor = True
+        Me.btn_exit.UseVisualStyleBackColor = False
         '
         'btn_clear
         '
+        Me.btn_clear.BackColor = System.Drawing.Color.Blue
         Me.btn_clear.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btn_clear.Location = New System.Drawing.Point(321, 238)
+        Me.btn_clear.Location = New System.Drawing.Point(272, 272)
         Me.btn_clear.Name = "btn_clear"
         Me.btn_clear.Size = New System.Drawing.Size(166, 73)
         Me.btn_clear.TabIndex = 13
         Me.btn_clear.Text = "Clear"
-        Me.btn_clear.UseVisualStyleBackColor = True
+        Me.btn_clear.UseVisualStyleBackColor = False
         '
         'btn_ok
         '
+        Me.btn_ok.BackColor = System.Drawing.Color.Red
         Me.btn_ok.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btn_ok.Location = New System.Drawing.Point(117, 238)
+        Me.btn_ok.Location = New System.Drawing.Point(68, 272)
         Me.btn_ok.Name = "btn_ok"
         Me.btn_ok.Size = New System.Drawing.Size(166, 73)
         Me.btn_ok.TabIndex = 14
         Me.btn_ok.Text = "Sum"
-        Me.btn_ok.UseVisualStyleBackColor = True
+        Me.btn_ok.UseVisualStyleBackColor = False
         '
         'txt_score2
         '
+        Me.txt_score2.BackColor = System.Drawing.SystemColors.ControlLight
         Me.txt_score2.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.txt_score2.Location = New System.Drawing.Point(323, 159)
+        Me.txt_score2.Location = New System.Drawing.Point(274, 193)
         Me.txt_score2.Multiline = True
         Me.txt_score2.Name = "txt_score2"
         Me.txt_score2.Size = New System.Drawing.Size(200, 47)
@@ -79,7 +83,7 @@ Partial Class Form1
         'txt_total
         '
         Me.txt_total.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.txt_total.Location = New System.Drawing.Point(177, 424)
+        Me.txt_total.Location = New System.Drawing.Point(128, 458)
         Me.txt_total.Multiline = True
         Me.txt_total.Name = "txt_total"
         Me.txt_total.Size = New System.Drawing.Size(185, 52)
@@ -89,7 +93,7 @@ Partial Class Form1
         'txt_grade
         '
         Me.txt_grade.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.txt_grade.Location = New System.Drawing.Point(471, 424)
+        Me.txt_grade.Location = New System.Drawing.Point(422, 458)
         Me.txt_grade.Multiline = True
         Me.txt_grade.Name = "txt_grade"
         Me.txt_grade.Size = New System.Drawing.Size(202, 52)
@@ -98,8 +102,9 @@ Partial Class Form1
         '
         'txt_score1
         '
+        Me.txt_score1.BackColor = System.Drawing.SystemColors.Menu
         Me.txt_score1.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.txt_score1.Location = New System.Drawing.Point(323, 59)
+        Me.txt_score1.Location = New System.Drawing.Point(274, 93)
         Me.txt_score1.Multiline = True
         Me.txt_score1.Name = "txt_score1"
         Me.txt_score1.Size = New System.Drawing.Size(200, 50)
@@ -108,8 +113,9 @@ Partial Class Form1
         '
         'Label3
         '
+        Me.Label3.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label3.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label3.Location = New System.Drawing.Point(100, 136)
+        Me.Label3.Location = New System.Drawing.Point(51, 170)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(185, 70)
         Me.Label3.TabIndex = 3
@@ -118,8 +124,9 @@ Partial Class Form1
         '
         'Label2
         '
+        Me.Label2.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label2.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(100, 43)
+        Me.Label2.Location = New System.Drawing.Point(51, 77)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(185, 70)
         Me.Label2.TabIndex = 4
@@ -128,8 +135,9 @@ Partial Class Form1
         '
         'Label4
         '
+        Me.Label4.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label4.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label4.Location = New System.Drawing.Point(177, 337)
+        Me.Label4.Location = New System.Drawing.Point(128, 371)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(185, 70)
         Me.Label4.TabIndex = 5
@@ -138,8 +146,9 @@ Partial Class Form1
         '
         'Label5
         '
+        Me.Label5.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label5.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label5.Location = New System.Drawing.Point(471, 337)
+        Me.Label5.Location = New System.Drawing.Point(422, 371)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(202, 70)
         Me.Label5.TabIndex = 6
@@ -148,8 +157,9 @@ Partial Class Form1
         '
         'Label1
         '
+        Me.Label1.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label1.Font = New System.Drawing.Font("Tahoma", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(323, -25)
+        Me.Label1.Location = New System.Drawing.Point(274, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(220, 70)
         Me.Label1.TabIndex = 7
@@ -160,7 +170,8 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.ClientSize = New System.Drawing.Size(762, 536)
         Me.Controls.Add(Me.btn_exit)
         Me.Controls.Add(Me.btn_clear)
         Me.Controls.Add(Me.btn_ok)
