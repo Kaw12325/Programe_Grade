@@ -5,8 +5,11 @@
             txt_score1.Text = ""
             txt_score2.Text = ""
         Else
-
-
+            Dim s1, s2, total As Single
+            s1 = txt_score1.Text
+            s2 = txt_score2.Text
+            total = s1 + s2
+            txt_total.Text = total
 
             If total >= 80 And total <= 100 Then
                 txt_grade.Text = " GRADE 4 "
