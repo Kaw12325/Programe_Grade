@@ -29,4 +29,11 @@
         End If
 
     End Sub
+
+    Private Sub btn_clear_Click(sender As Object, e As EventArgs) Handles btn_clear.Click
+        txt_score1.Text = ""
+        txt_score2.Text = ""
+        txt_total.Text = ""
+        txt_grade.Text = ""
+    End Sub
 End Class

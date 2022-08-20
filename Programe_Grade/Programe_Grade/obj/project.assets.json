@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JP\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source_code\\New folder (2)\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+      "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
       "projectName": "Programe_Grade",
-      "projectPath": "D:\\source_code\\New folder (2)\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
-      "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-      "outputPath": "D:\\source_code\\New folder (2)\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
+      "projectPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
