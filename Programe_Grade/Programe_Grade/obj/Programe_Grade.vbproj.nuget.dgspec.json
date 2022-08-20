@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {}
+    "E:\\Users\\iigluayy\\Documents\\GitHub\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {}
   },
   "projects": {
-    "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {
+    "E:\\Users\\iigluayy\\Documents\\GitHub\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+        "projectUniqueName": "E:\\Users\\iigluayy\\Documents\\GitHub\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
         "projectName": "Programe_Grade",
-        "projectPath": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual 2022\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
+        "projectPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Programe_Grade\\Programe_Grade\\Programe_Grade\\Programe_Grade.vbproj",
+        "packagesPath": "C:\\Users\\iigluayy\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Programe_Grade\\Programe_Grade\\Programe_Grade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iigluayy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
